@@ -1,0 +1,28 @@
+.categoryBar {
+    margin-top: 4.5rem;
+}
+
+.ketBtn {
+    margin-top: 1.5rem;
+    height: 60px;
+    width: 100vh;
+    overflow-x: scroll;
+    display: -webkit-flex;
+    scroll-behavior: smooth;
+
+}
+
+.ketBtn::-webkit-scrollbar { 
+	display: none;
+}
+
+.navBarBtn {
+    margin-right: 8px;
+    margin-bottom: 8px;
+	font-weight: 300;
+}
+
+.badgeText {
+    padding: 7px;
+    font-weight:bold;
+}

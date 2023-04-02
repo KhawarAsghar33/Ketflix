@@ -1,0 +1,24 @@
+.topNavbar{
+    
+}
+
+.overlayIcon {
+    font-weight:bolder;
+    cursor: pointer;
+    height: 18px;
+    color: aliceblue !important;
+    position: absolute;
+    right: 70px;
+    top: 30px;
+    
+}
+
+.overlayBellIcon {
+    cursor: pointer;
+    height: 20px;
+    color: white ;
+    position: absolute;
+    right: 105px;
+    top: 30px;
+}
+
